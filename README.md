@@ -1,2 +1,2 @@
-# Haker-Rank-Questions-Solution
-This Repository contains solved questions from Hacker Rank 
+# DSA Solved Questions
+This Repository contains solved questions data structures and algorithms from different paltforms 
